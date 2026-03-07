@@ -142,7 +142,7 @@
 - [Rak Laptudirm](https://github.com/raklaptudirm/raklaptudirm)
 - [Trini B](https://github.com/trinib/trinib)
 - [holic-x](https://github.com/holic-x/holic-x)
-- [fr297](https://github.com/fr297) 
+- [alexfrxx](https://github.com/alexfrxx) 
 
 
 #### Descriptive 🗒
@@ -241,6 +241,8 @@
 - [Shahriar Shafin](https://github.com/ShahriarShafin/ShahriarShafin)
 - [Somnath Paul](https://github.com/SP-XD/SP-XD)
 - [Ksenia Morozova](https://github.com/kmoroz/kmoroz)
+- [alexfrxx](https://github.com/alexfrxx) 
+  
 
 #### Just Images 🎭
 - [Zack Krida](https://github.com/zackkrida/zackkrida)
